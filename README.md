@@ -1,20 +1,20 @@
-# Oi, eu sou o Nicolas 👋
+# Hi, I'm Nicolas 👋
 
-Estudante de Ciência da Computação na UNIT-PE, em Recife. Gosto de construir coisas que as pessoas usam de verdade.
+Computer Science student at UNIT-PE in Recife, Brazil. I like building things that real people actually use.
 
-## 🚀 Projetos
+## 🚀 Projects
 
-- **[Crystal Crown](https://crystalcrown.com.br)**: site do meu servidor de Minecraft, feito do zero com HTML, CSS e JavaScript e publicado com domínio próprio.
+- **[Crystal Crown](https://crystalcrown.com.br)**: website for my Minecraft server, built from scratch with HTML, CSS and JavaScript and published on its own domain.
 
-## 🛠️ Tecnologias
+## 🛠️ Tech
 
 Python · C · HTML · CSS · JavaScript
 
-## 📚 Agora
+## 📚 Now
 
-- Cursando o 2º período de Ciência da Computação
-- Participando da Residência Tecnológica do Porto Digital
+- 2nd semester of Computer Science
+- Taking part in Porto Digital's Tech Residency program
 
-## 📫 Contato
+## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/nicolas-diogenes-686134414)
